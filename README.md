@@ -1,4 +1,4 @@
-# 🤝 Amigo Secfreto
+# 🤝 Amigo Secreto
 O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo depois realizar um sorteio para determinar quem é o amigo secreto.
 
 
