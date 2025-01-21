@@ -4,7 +4,7 @@ O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo de
 
 ## 📸: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="" width="260">&emsp;
+<img src="assets/figA.png" width="260">&emsp;
 
 
 ## 💻 Tecnologias
