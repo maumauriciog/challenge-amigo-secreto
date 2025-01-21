@@ -7,7 +7,7 @@ O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo de
 <img src="" width="260">&emsp;
 
 
-## : Tecnologias
+## 💻 Tecnologias
 * HTML
 * CSS
 * JavaScript
@@ -15,15 +15,15 @@ O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo de
   - arrays
 
 
-### TO DO
+### 📖 TO DO
 - Melhorar estilização do site
 
 
-## Author
+## 🧔 Author
 Maurício G (follow me on [Twitter](https://twitter.com/maumauriciog))
 
 
-## License
+## 🔖 License
 ```
 The MIT License (MIT)
 
