@@ -10,7 +10,7 @@ O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo de
 ## : Tecnologias
 * HTML
 * CSS
-* JavaScriot
+* JavaScript
   - variáveis
   - arrays
 
