@@ -1,6 +1,8 @@
 # 🤝 Amigo Secreto
 O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo depois realizar um sorteio para determinar quem é o amigo secreto.
 
+# 🥇 Como Utilizar
+basta no link já publicado gratuitamente: 
 
 ## 📸: Screenshots
 <!-- You can add more screenshots here if you like -->
