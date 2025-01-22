@@ -1,18 +1,36 @@
 # 🤝 Amigo Secreto
-O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo depois realizar um sorteio para determinar quem é o amigo secreto.
+O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo depois realizar um sorteio para determinar quem é o Amigo Secreto. 
 
 
 ## 📸: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="" width="260">&emsp;
+<img src="assets/figA.png" width="260">&emsp;
 
+
+# 📲 Como Acessar o Aplicativo
+Para utilizar o aplicativo, click no link já publicado gratuitamente:
+
+
+# ☑️ O Que Vem no Aplicativo
+O aplicativo possui:<br>
+	- um botão ao lado direito do campo chamado 'Adicionar';<br>
+	- um botão logo abaixo chamado 'Sortear Amigo';<br>
+
+ # 📘 Como Utilizar o Aplicativo
+ O aplicativo é fácil de utilizar, siga os passos abaixo para obter sucesso na utilização.<br>
+       1. Digite o nome da pessoa no campo 'Digite um Nome'. Não é permitido campo em branco;<br>
+       2. Click em 'Adicionar', e logo verá o nome abaixo - O nome foi inserido na lista;<br>
+       3. Repita a operação 1. e 2. até que atinja a quantidade desejada de pessoas na lista; e<br>
+       4. click no botão 'Sortear Amigo' para que o sistema Selecione o Amigo Secreto.
 
 ## 💻 Tecnologias
 * HTML
 * CSS
 * JavaScript
-  - variáveis
-  - arrays
+  - variáveis;
+  - arrays;
+  - funções; e
+  - condicionais.
 
 
 ### 📖 TO DO
