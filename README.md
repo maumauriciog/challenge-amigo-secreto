@@ -33,7 +33,7 @@ O aplicativo possui:<br>
 
 
 # 📖 TO DO
-- Melhorar estilização do site
+- Melhorar estilização do site.
 
 
 ## 🧔 Author
