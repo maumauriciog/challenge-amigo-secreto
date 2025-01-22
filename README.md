@@ -11,8 +11,10 @@ O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo de
 * HTML
 * CSS
 * JavaScript
-  - variáveis
-  - arrays
+  - variáveis;
+  - arrays;
+  - funções; e
+  - condicionais.
 
 
 ### 📖 TO DO
