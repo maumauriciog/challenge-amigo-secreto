@@ -13,8 +13,8 @@ Para utilizar o aplicativo, click no link já publicado gratuitamente:
 # ☑️ O Que Vem no Aplicativo
 O aplicativo possui:<br>
 	- um campo para digitar o nome;<br>
-	- um botão ao lado direito do campo para digitar o nome chamado 'Adicionar';<br>
-	- um botão logo abaixo chamado 'Sortear Amigo';<br>
+	- um botão ao lado direito do campo para digitar o nome chamado 'Adicionar'; e<br>
+	- um botão logo abaixo chamado 'Sortear Amigo'.<br>
 
  # 📘 Como Utilizar o Aplicativo
  O aplicativo é fácil de utilizar, siga os passos abaixo para obter sucesso na utilização.<br>
@@ -38,7 +38,7 @@ O aplicativo possui:<br>
 
 
 ## 🧔 Author
-Maurício G (follow me on [Twitter](https://twitter.com/maumauriciog))
+Maurício G (follow me on [Twitter](https://twitter.com/maumauriciog)).
 
 
 ## 🔖 License
