@@ -12,6 +12,7 @@ Para utilizar o aplicativo, click no link já publicado gratuitamente:
 
 # ☑️ O Que Vem no Aplicativo
 O aplicativo possui:<br>
+	- um campo em branco;<br>
 	- um botão ao lado direito do campo chamado 'Adicionar';<br>
 	- um botão logo abaixo chamado 'Sortear Amigo';<br>
 
