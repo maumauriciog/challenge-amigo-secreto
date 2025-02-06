@@ -1,19 +1,20 @@
 # 🤝 Amigo Secreto
-O site Amigo Secreto, permite aos usuários inserir nomes em uma lista e logo depois realizar um sorteio para determinar quem é o Amigo Secreto. 
+O site Amigo Secreto, permite aos usuários inserir nomes em uma lista para que você possa realizar um sorteio para determinar quem é o seu Amigo Secreto.
 <b>
 # 📸 Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="assets/figA.png" width="280">&emsp;<img src="assets/figB.png" width="303">&emsp;<img src="assets/figC.png" width="310">
+<img src="assets/figA.png" width="250">&emsp;<img src="assets/figB.png" width="260">&emsp;<img src="assets/figC.png" width="255">
 
 
 # 📲 Como Acessar o Aplicativo
-Para utilizar o aplicativo, click no link já publicado gratuitamente:
+Para utilizar o aplicativo, click no link já publicado: https://challenge-amigo-secreto-six-beryl.vercel.app/
 
 
 # ☑️ O Que Vem no Aplicativo
 O aplicativo possui:<br>
-	- um botão ao lado direito do campo chamado 'Adicionar';<br>
-	- um botão logo abaixo chamado 'Sortear Amigo';<br>
+	- um campo para digitar o nome;<br>
+	- um botão ao lado direito do campo para digitar o nome chamado 'Adicionar'; e<br>
+	- um botão logo abaixo chamado 'Sortear Amigo'.<br>
 
  # 📘 Como Utilizar o Aplicativo
  O aplicativo é fácil de utilizar, siga os passos abaixo para obter sucesso na utilização.<br>
@@ -33,18 +34,18 @@ O aplicativo possui:<br>
 
 
 # 📖 TO DO
-- Melhorar estilização do site
+- Melhorar estilização do site.
 
 
 ## 🧔 Author
-Maurício G (follow me on [Twitter](https://twitter.com/maumauriciog))
+Maurício G (follow me on [Twitter](https://twitter.com/maumauriciog)).
 
 
 ## 🔖 License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2024 Maurício Gomes das Chagas
+Copyright (c) 2025 Maurício Gomes das Chagas
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
