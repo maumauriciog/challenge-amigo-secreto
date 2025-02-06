@@ -7,7 +7,7 @@ O site Amigo Secreto, permite aos usuários inserir nomes em uma lista para que 
 
 
 # 📲 Como Acessar o Aplicativo
-Para utilizar o aplicativo, click no link já publicado gratuitamente:
+Para utilizar o aplicativo, click no link já publicado: https://challenge-amigo-secreto-six-beryl.vercel.app/
 
 
 # ☑️ O Que Vem no Aplicativo
