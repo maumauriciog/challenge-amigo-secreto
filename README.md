@@ -3,7 +3,7 @@ O site Amigo Secreto, permite aos usuários inserir nomes para formar uma lista.
 <b>
 # 📸 Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="assets/figA.png" width="250">&emsp;<img src="assets/figB.png" width="260">&emsp;<img src="assets/figC.png" width="255">
+<img src="assets/figA.png" width="250">&emsp;<img src="assets/figA1.png" width="260">&emsp;<img src="assets/figB.png" width="260">&emsp;<img src="assets/figC.png" width="255">
 
 
 # 📲 Como Acessar o Aplicativo
