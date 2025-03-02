@@ -131,15 +131,23 @@ ul {
     color: var(--color-text);
     font-family: "Inter", sans-serif;
     font-size: 18px;
-    margin: 20px 0;
+    margin: 10px 0;
 }
 
 .result-list {
-    margin-top: 15px;
+    margin-top: 12px;
     color: #05DF05;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+}
+
+.erro-list {
+    margin-top: 10px;
+    color: red;
+    font-size: 23px;
+    text-align: center;
+    font-weight: bold;
 }
 
 /* Botão de sortear título */
